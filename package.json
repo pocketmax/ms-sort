@@ -1,0 +1,25 @@
+{
+  "name": "ms-sort",
+  "version": "1.0.0",
+  "description": "microservice for sorting data by one or more fields",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pocketmax/ms-sort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pocketmax/ms-sort/issues"
+  },
+  "homepage": "https://github.com/pocketmax/ms-sort",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "lodash": "^3.10.1"
+  }
+}
