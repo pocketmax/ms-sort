@@ -12,7 +12,7 @@ module.exports = function (cfg){
 
 	this.start = function(){
 
-		resultsList = _.sortBy(list, 'firstName');
+		resultsList = _.sortBy(list, cfg.sortField);
 	};
 
 	this.next = function(){
