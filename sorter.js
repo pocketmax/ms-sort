@@ -3,7 +3,7 @@ var _ = require('lodash');
 module.exports = function (cfg){
 
 	var list = [],
-		resultsList = []
+		resultsList = [],
 		nextInc = 0;
 
 	this.addRow = function(row){
